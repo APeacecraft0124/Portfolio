@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang=""en_GB>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Lorem ipsum sit amet dolor">
+    
+    <title>Three-Column-layout</title>
+  </head>
+  <body>
+    <!-- This is a comment and will not be read or shown -->
+    <div="container">
+      <header>
+        <nav>
+          <a href="home.html">Home</a> |
+          <a href="products.html">Products</a> |
+          <a href="gallery.html">Gallery</a> |
+          <a href="contact.html>Contact Us</a> 
+        </nav
+      </header>
+      
+      <div id="col1">Column 1</div>
+      
+      <div id="col2">Column 2</div>
+      
+      <<div class="sidebar"></div
+      
+      <footer>
+        <footer>
+      </footer>
+    </div>
+  </body>
+</html>
